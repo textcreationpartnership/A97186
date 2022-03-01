@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supreme authority the Parliament of the Commonwealth of England the humble petition of severall that have adventured, and are willing to adventure to Greenland, whose names are hereunto subscribed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97186</idno>
+            <idno type="STC">Wing W914</idno>
+            <idno type="STC">Thomason 669.f.15[71]</idno>
+            <idno type="STC">ESTC R212070</idno>
+            <idno type="EEBO-CITATION">99870722</idno>
+            <idno type="PROQUEST">99870722</idno>
+            <idno type="VID">163144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163144)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[71])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supreme authority the Parliament of the Commonwealth of England the humble petition of severall that have adventured, and are willing to adventure to Greenland, whose names are hereunto subscribed.</title>
+                  <author>Warner, Richard, fl. 1651.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Richard Warner [and 15 others].</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 6th 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whaling --  England --  Early works to 1800.</term>
+               <term>Greenland --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163144:1" rendition="simple:additions"/>
+            <head>To the ſupreme Authority the Parliament of the Common-wealth of ENGLAND;
+The humble Petition of ſeverall that have adventured, and are willing to adventure to <hi>Greenland,</hi> whoſe Names are hereunto ſubſcribed:</head>
+            <opener>SHEWETH,</opener>
+            <p>THat the Fiſhing of <hi>Greenland</hi> for making Oyl there (being of great concernment unto this Common-wealth) hath been for many years ingroſſed in great meaſure into the hands of the <hi>Greenland</hi> Company, who have by force (and ſometimes blood-ſhed) endevoured to ſuppreſs all others who have attempted to fiſh there, under pretence of a property in ſeverall Harbors, by vertue of a Patent, and an Act of Parliament made in the 8. year of <hi>Eliz.</hi> which Act your Petitioners humbly conceive in no ſenſe can be conſtrued to warrant their actions or pretences.</p>
+            <p>That ſeveral of thoſe Harbors wherein they principally claim an intereſt and propriety are large bayes and are ſome of them about 20. or 24. miles in breadth at the going in; and about 14. miles within, and compriſe in each of them divers large, convenient, and commodious Harbours, where may be pitched many tents by ſeveral adven<g ref="char:EOLhyphen"/>turers, and Coppers erected for boyling places ſeveral miles diſtant each from other, without any an noyance or preju<g ref="char:EOLhyphen"/>dice to one another, and every one have more fiſhing then their utmoſt induſtry can improve (the Hollanders at this time through the means of the <hi>Greenland</hi> Companies reſtraint of free. fiſhing for all Engliſhmen, imploying annually. 3. or 4. ſcore ſail of Ships to fiſh in <hi>Greenland)</hi> and yet the <hi>Greenland</hi> Company ſtrive to hinder all Engliſhmen, ſaving thoſe of their own Company from fiſhing there, which are an inconſiderable handful of, about 30. or 40. perſons and yet they do nothing neer ſend out ſufficient ſhipping to ſupply this Common-wealth with Oyl or Whalefinn.</p>
+            <p>That the <hi>Greenland</hi> Company have lately and ſtrongly endeavoured at the Councel of Trade to prevent all Forrai<g ref="char:EOLhyphen"/>gners from importing fiſh Oyl and Whalefin, and all Engliſhmen from fiſhing freely in <hi>Greenland</hi> but themſelves, where<g ref="char:EOLhyphen"/>by they would have all Fiſh Oyl and Whalefinn in their own hands to inhance the price at their own wills, and in caſe their fiſhing be not ſuccesful any year according to their deſires the whole Common-wealth muſt ſuffer thereby, pre<g ref="char:EOLhyphen"/>tending it is impoſſible that other Engliſhmen, beſides themſelves ſhould fiſh there; but by the Sea-men there will be blood ſhed, although it is wel known that in or about the year 1645. when the Parliament was pleaſed to grant and make a ſevere order for keeping the Peace, there was no diſturbance.</p>
+            <p>That in caſe the ſaid fiſhing were free for every Engliſhman (as of right and juſtice we humbly conceive it ought to be) there would be twice or thrice as many Ships ſent every year for <hi>Greenland,</hi> as a renow by the <hi>Greenland</hi> Com<g ref="char:EOLhyphen"/>pany (as by the particulars under written may partly appear) whereby that fiſhing would be reſerved from al forraigners, and this Nation ſupplied with a full quantity of Fiſh-Oyls at cheap rates, without the help of forraigners; yea, and in a few years be able to tranſport into forraign Nations for their ſupply, as now ſome of them do to us, for ours. And the Navigation for this Common-wealth very much increaſed, and induſtry (the ſupport of a Nation) encouraged.</p>
+            <p>Your Petitioners therefore humbly pray, That it may ſpeedily (for the encouragement of theſe preſent yeers fiſh<g ref="char:EOLhyphen"/>ing) be declared by Parliament, that the fiſhing in <hi>Greenland</hi> and making fiſh-Oyl and Whalefinn there, ſhall be free for every Engliſh-man, and the ſame Oyls and Whalefinn there made to be freely vended in <hi>England,</hi> &amp; that the ſaid <hi>Greenland</hi> Company may make a juſt ſatisfaction for that innocent blood that they and their agents have ſhed there, and a full reſtitution and ſatisfaction to all thoſe Engliſh men they have any way wronged by taking away their goods, &amp;c. Contrary to Law, and that a ſevere and exact order may be made for the future keeping of the peace amongſt all thoſe Engliſhmen that ſhall repair to <hi>Greenland</hi> to fiſh; foraſmuch as already the chiefeſt of the <hi>Greenland</hi> Company give out deſperate threats againſt any Engliſh-men that are not of their Company that ſhall dare to fiſh in the <hi>Greenland</hi> Harbours.</p>
+            <closer>
+               <signed>And your Petitioners ſhall pray, &amp;c.
+<list>
+                     <item>
+                        <hi>Richard Warner,</hi> an Adventurer of a whole Ship at his own charge two years together laſt paſt.</item>
+                     <item>
+                        <hi>Jo. Pibus,</hi> who hath been for this Ten years together there a Fiſhing, and is now a Maſter of a Ship trading for that place.</item>
+                     <item>
+                        <hi>William Welch,</hi> who hath been Nine or ten years there, and now a Maſter of a Ship.</item>
+                     <item>
+                        <hi>Iohn Warner,</hi> who hath been Three years there, and now is Maſter of a Ship.</item>
+                     <item>George Baker Adam Cliffe Iohn Cliffe Simon Sylks Which four are now joyned with the Four before-named; all Eight of which intend this year to ſet out ſhipping for 250 Tunn of Whale Oyl, beſides Whale Finn.</item>
+                  </list>
+               </signed>
+From <hi>Hull</hi> the laſt year went two Ships that never adventured before, and as we are credibly informed, the ſame Perſons intend this year to ſet out Ships for 250 Tunn of Oyl, &amp;c.
+Mr. <hi>Thomas Hoth</hi> of <hi>London</hi> this year himſelf intends as we credibly underſtand, to adventure for 400. Tunn of Oyl.
+<signed>
+                  <list>
+                     <item>
+                        <hi>Alderman</hi> Iohn Hayes</item>
+                     <item>
+                        <hi>Col.</hi> Iohn Hardwick</item>
+                     <item>Simon Weeden</item>
+                     <item>Roger Peares</item>
+                     <item>Edward Whittwell</item>
+                     <item>Thomas Howlet</item>
+                     <item>Iames Baker</item>
+                  </list> All ſeven of them Sopemakers, with others of their aſſociates, if the Trade be free, intend and deſire (as we underſtand from ſome of themſelves) to ſend out ſhipping to <hi>Greenland</hi> this year for 700 Tunn of Oyl. All which adventures in the groſs, makes up 1600 Tunn, and the whole <hi>Greenland</hi> Company ſeldom in one year adventures for above 1000. Tunn of Oyl; ſo that the advantage the Nation will get by a Free-trade is clear: Free-trade onely being the means to beat the <hi>Hollanders</hi> out of that Trade.</signed>
+            </closer>
+         </div>
+         <div type="statement">
+            <p>The Originall of this Petition in Writing, remaines in the hands of the Honourable LUKE ROBINSON, to be preſented to the Houſe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
